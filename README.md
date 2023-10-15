@@ -4,11 +4,11 @@ This is my first GitHub Hello World
 
 I'm a passionate web developer and designer with a love for coding and creative design. I thrive on turning ideas into functional and visually appealing websites. Here's a little more about me:
 
-- **Name**: John Doe
-- **Location**: New York City
+- **Name**: Muhammad Adzin Abu Bakar
+- **Location**: Bukit Mertajam, Pulau Pinang
 - **Skills**: HTML, CSS, JavaScript, React
-- **Experience**: 5+ years in web development
-- **Education**: Bachelor's degree in Computer Science
+- **Experience**: 11+ years in web development
+- **Education**: Bachelor's degree in ISM
 
 ### Hobbies
 
@@ -21,10 +21,10 @@ In my free time, I enjoy:
 
 Some of my recent projects include:
 
-1. [Personal Portfolio](https://www.example.com/portfolio): A showcase of my work.
-2. [E-commerce Website](https://www.example.com/ecommerce): Built with React and Redux.
-3. [Blog Site](https://www.example.com/blog): A place to share my thoughts on web development.
+1. [Personal Portfolio](https://www.tukangwebsite.com): A showcase of my work.
+2. [E-commerce Website](https://www.tukangwebsite.com/ecommerce-premium): Built with React and Redux.
+3. [Blog Site](https://www.tukangwebsite.com/blog): A place to share my thoughts on web development.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe) to discuss collaboration opportunities or just to say hi!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adzin) to discuss collaboration opportunities or just to say hi!
 
 > "Coding is not just my job; it's my passion."
